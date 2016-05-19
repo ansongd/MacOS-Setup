@@ -1,3 +1,6 @@
-# My Awesome Book
+# 如何更好的使用mac
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+苹果提供的免费OX系统当中有很多强大的应用差价，如果运用得当，效率可以秒杀别人几条街。
+一下将会是我个人对mac平台软件环境配置的一些介绍
+
+如有问题可通过邮箱联系:179205168@qq.com
