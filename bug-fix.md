@@ -17,23 +17,17 @@
 
 ![](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=e306887074f082022dc799397bcbd7d5/810a19d8bc3eb1357db7dbe8a11ea8d3fd1f4474.jpg)
 
-#### 第二步：找到 安装 OS X 安装包，右键选择“显示包内容”  在Contents/Resources/文件夹下找到：createinstallmedia 看下图B
+#### 第二步：找到 安装 OS X 安装包，右键选择“显示包内容”  在Contents/Resources/文件夹下找到：createinstallmedia
 
 ![](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=ff2beb7f8001a18bf0be1a49ae1f2b30/8694a4c27d1ed21b7a0b43b6aa6eddc450da3fa6.jpg)
 
-#### 第三步：将createinstallmedia文件拖入“终端”  如图C
+#### 第三步：将createinstallmedia文件拖入“终端”  ![](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=84978820aa4bd1130498bf346a9f8837/cdbf6c81800a19d8f03ce85634fa828ba61e46a1.jpg)
 
-![](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=84978820aa4bd1130498bf346a9f8837/cdbf6c81800a19d8f03ce85634fa828ba61e46a1.jpg)
+#### 第四步：输入 --volume+空格 ，之后托入U盘图标至“终端” 
 
-
-
-#### 第四步：
-
-
+![](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=caf607bc8ab1cb133e3c3415ed647a76/b7003af33a87e950cb749f3f17385343fbf2b406.jpg)
 
 #### 第三步：
-
-
 
 #### 第三步：
 
