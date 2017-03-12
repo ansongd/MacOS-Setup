@@ -30,14 +30,11 @@
 * [IINA](https://lhc70000.github.io/iina/) 多媒体播放器
 * [Music Tap Edit](https://itunes.apple.com/us/app/music-tag-editor/id511170796?mt=12) 音乐信息编辑工具
 
-辅助功能
+### 辅助功能
 
-* [Flux](https://justgetflux.com)
-  屏幕色温管理工具
-* [Surge](http://nssurge.com)
-  网络分流测试神器
-* [ForkLift](http://www.binarynights.com/forklift/)
-  文件夹管理工具，支持FTP、SFTP
+* [Flux](https://justgetflux.com) 屏幕色温管理工具
+* [Surge](http://nssurge.com) 网络分流测试神器
+* [ForkLift](http://www.binarynights.com/forklift/) 文件夹管理工具，支持FTP、SFTP
 * [AirServer](http://www.airserver.com)
   模拟AppleTV投影功能，投影到MacOS
 * [DAEMON Tools](https://www.daemon-tools.cc/chn/downloads)
