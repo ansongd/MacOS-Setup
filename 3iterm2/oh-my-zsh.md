@@ -18,5 +18,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 vi ~/.zshrc
 ```
 
-
+找到
 
