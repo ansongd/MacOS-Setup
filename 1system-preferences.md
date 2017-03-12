@@ -2,6 +2,8 @@
 
 ## 
 
+
+
 ## 触控板
 
 勾选“轻点来点按“，如果笔记本支持3D Touch勾选 "静默点按"
@@ -19,6 +21,10 @@
 ```
 sudo spctl --master-disable
 ```
+
+## TimeMachine
+
+如果
 
 
 
