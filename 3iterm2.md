@@ -14,8 +14,6 @@
 * [iTerm2](http://www.iterm2.com) 终端管理工具
 * [Dash](https://kapeli.com) 离线开发文档管理工具
 
-### 
-
 ### 办公软件
 
 * [number](http://www.apple.com/numbers/) 苹果公司原生excel管理工具
