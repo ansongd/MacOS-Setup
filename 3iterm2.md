@@ -8,7 +8,7 @@
 brew cask install iterm2
 ```
 
-* 备份配置文件
+* ### 同步备份配置文件
 
 
 
