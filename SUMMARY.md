@@ -5,5 +5,5 @@
   * [Dock](1system-preferences/dock.md)
 * [2.Homebrew](homebrew.md)
 * [3.iTerm2](3iterm2.md)
-* App
+* [App](app.md)
 
