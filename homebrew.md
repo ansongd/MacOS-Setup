@@ -16,11 +16,9 @@ xcode-select --install
 
 * ### 安装脚本后检查安装情况
 
-### 如果
-
 ```
 brew doctor
 ```
 
-
+如果
 
