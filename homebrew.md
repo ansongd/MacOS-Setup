@@ -14,5 +14,13 @@ xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+* ### 安装脚本后检查安装情况
+
+### 如果
+
+```
+brew doctor
+```
+
 
 
