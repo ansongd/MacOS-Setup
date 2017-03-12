@@ -12,5 +12,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 终端完成安装后，在没设置主题情况下，终端可能变得更奇异，这时候只需要修改Oh My Zsh的配置文档就能获得更强大的终端样式支持。
 
-编辑配置文档
+#### 编辑配置文档
+
+```
+vi ~/.zshrc
+```
+
+
 
