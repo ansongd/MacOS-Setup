@@ -40,12 +40,12 @@
 * [Thunder](http://mac.xunlei.com) 迅雷下载工具
 * [Window Tidy](http://www.lightpillar.com/window-tidy.html) 多窗口管理工具
 
-浏览器插件
+### 浏览器插件
 
 * [Tampermonkey](http://tampermonkey.net/changelog.php?version=4.3.5403&ext=G3XV&updated=true&old=4.2.5349) 浏览器Java插件
 * [LastPassword](https://lastpass.com/thanks.php) 多平台密码统一工具
 
-树莓派工具
+### 树莓派工具
 
 * [ApplePi-Baker](https://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) 树莓派镜像烧录工具
 * [VSSH](http://www.velestar.com/Pages/VSSHIOSPage.aspx) SSH登陆工具
