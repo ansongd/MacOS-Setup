@@ -21,6 +21,18 @@
 
 ![](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=ff2beb7f8001a18bf0be1a49ae1f2b30/8694a4c27d1ed21b7a0b43b6aa6eddc450da3fa6.jpg)
 
+#### 第三步：将createinstallmedia文件拖入“终端”  如图C
+
+![](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=84978820aa4bd1130498bf346a9f8837/cdbf6c81800a19d8f03ce85634fa828ba61e46a1.jpg)
+
+
+
+#### 第四步：
+
+
+
+#### 第三步：
+
 
 
 #### 第三步：
