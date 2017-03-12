@@ -20,5 +20,5 @@ xcode-select --install
 brew doctor
 ```
 
-如果
+如果正常安装，输入以上命令会得到相应提示。
 
