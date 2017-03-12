@@ -24,5 +24,11 @@ brew doctor
 
 ### 默认配置说明
 
+brew install & brew cask install 所安装的软件包将默认保存到以下路径，可定时对此文件进行备份或清理
+
+```
+/Users/shenglanliang/Library/Caches/Homebrew
+```
+
 
 
