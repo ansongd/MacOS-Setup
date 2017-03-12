@@ -10,5 +10,5 @@ brew cask install iterm2
 
 * ### 同步备份配置文件
 
-先设置同步配置文件，在 Preferences -&gt; General 中勾选 Load preferences from a custom folder or URL: 。选择保存路径确认后退出iTerm2后再次打开该应用。
+先设置同步配置文件，在 Preferences -&gt; General 中勾选 Load preferences from a custom folder or URL: 。选择保存到icloud或dropbox某个指定路径，确认后退出iTerm2后再次打开该应用，
 
