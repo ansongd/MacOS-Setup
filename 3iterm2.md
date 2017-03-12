@@ -28,8 +28,7 @@
 ### 多媒体
 
 * [IINA](https://lhc70000.github.io/iina/) 多媒体播放器
-* [Music Tap Edit](https://itunes.apple.com/us/app/music-tag-editor/id511170796?mt=12)
-  音乐信息编辑工具
+* [Music Tap Edit](https://itunes.apple.com/us/app/music-tag-editor/id511170796?mt=12) 音乐信息编辑工具
 
 辅助功能
 
