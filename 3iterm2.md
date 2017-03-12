@@ -19,16 +19,15 @@
 * [number](http://www.apple.com/numbers/) 苹果公司原生excel管理工具
 * [Spotify](https://www.spotify.com/hk-zh/) 音乐fm
 
-通讯工具
+### 通讯工具
 
 * [微信](https://weixin.qq.com/cgi-bin/readtemplate?t=mac)
 * [QQ](http://im.qq.com/macqq/index.shtml)
 * [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
-多媒体
+### 多媒体
 
-* [IINA](https://lhc70000.github.io/iina/)
-  多媒体播放工具
+* [IINA](https://lhc70000.github.io/iina/) 多媒体播放器
 * [Music Tap Edit](https://itunes.apple.com/us/app/music-tag-editor/id511170796?mt=12)
   音乐信息编辑工具
 
