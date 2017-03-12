@@ -10,5 +10,5 @@ brew cask install iterm2
 
 * ### 同步备份配置文件
 
-先设置同步配置文件，在 Preferences -&gt; 
+先设置同步配置文件，在 Preferences -&gt; General 中勾选 Load preferences from a custom folder or URL: 。
 
