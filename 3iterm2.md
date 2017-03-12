@@ -9,12 +9,12 @@
 * [Illustrator](http://www.adobe.com/cn/)  
   矢量图像编辑工具
 
-* [Sketch](https://www.sketchapp.com)
+* [Sketch](https://www.sketchapp.com)  
   UI设计管理工具
+
 * [Flinto](https://www.flinto.com)
   图片跳转形式的交互工具
-* [Framer](https://framer.com)
-  用js写的交互工具
+* [Framer](https://framer.com) 用js写的交互工具
 
 ### 编程工具
 
