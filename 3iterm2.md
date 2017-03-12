@@ -38,7 +38,6 @@
 * [AirServer](http://www.airserver.com) 模拟AppleTV投影功能，投影到MacOS
 * [DAEMON Tools](https://www.daemon-tools.cc/chn/downloads) IOS、VHD影像创建及加载
 * [Thunder](http://mac.xunlei.com) 迅雷下载工具
-  * 
 * [Window Tidy](http://www.lightpillar.com/window-tidy.html)
   多窗口管理工具
 
