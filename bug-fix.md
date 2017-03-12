@@ -13,7 +13,11 @@
 
 在“终端”中使用“createinstallmedia”命令
 
-第一步：插入U盘，打开“终端”输入：sudo+空格
+#### 第一步：插入U盘，打开“终端”输入：sudo+空格
 
 ![](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=e306887074f082022dc799397bcbd7d5/810a19d8bc3eb1357db7dbe8a11ea8d3fd1f4474.jpg)
+
+#### 第二步：
+
+
 
