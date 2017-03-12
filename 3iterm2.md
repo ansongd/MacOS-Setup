@@ -6,8 +6,9 @@
 
   像素图片编辑工具
 
-* [Illustrator](http://www.adobe.com/cn/)
+* [Illustrator](http://www.adobe.com/cn/)  
   矢量图像编辑工具
+
 * [Sketch](https://www.sketchapp.com)
   UI设计管理工具
 * [Flinto](https://www.flinto.com)
@@ -17,14 +18,11 @@
 
 ### 编程工具
 
-* [Visual Sudio Code](https://code.visualstudio.com)
-  微软出品的多平台文本编辑工具\(visual-studio-code\)
-* [iTerm2](http://www.iterm2.com)
-  终端管理工具
-* [Dash](https://kapeli.com)
-  离线开发文档管理工具
+* [Visual Sudio Code](https://code.visualstudio.com)  微软出品的多平台文本编辑工具\(visual-studio-code\)
+* [iTerm2](http://www.iterm2.com) 终端管理工具
+* [Dash](https://kapeli.com) 离线开发文档管理工具
 
-办公软件
+### 办公软件
 
 * [number](http://www.apple.com/numbers/)
   苹果公司原生excel管理工具
