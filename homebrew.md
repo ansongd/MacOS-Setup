@@ -8,7 +8,7 @@
 xcode-select --install
 ```
 
-* ### 终端安装 **Xcode Tools**
+* ### 获取 Homebrew，打开终端窗口, 粘贴以下脚本。
 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
