@@ -18,5 +18,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 vi ~/.zshrc
 ```
 
-找到
+找到ZSH\_THEME=“”，这里可以设置Oh My Zsh的主题样式
 
