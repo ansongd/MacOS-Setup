@@ -1,9 +1,11 @@
 # 软件安装
 
-设计工具
+### 设计工具
 
-* [Photoshop](http://www.adobe.com/cn/)
+* ### [Photoshop](http://www.adobe.com/cn/)
+
   像素图片编辑工具
+
 * [Illustrator](http://www.adobe.com/cn/)
   矢量图像编辑工具
 * [Sketch](https://www.sketchapp.com)
@@ -13,7 +15,7 @@
 * [Framer](https://framer.com)
   用js写的交互工具
 
-编程工具
+### 编程工具
 
 * [Visual Sudio Code](https://code.visualstudio.com)
   微软出品的多平台文本编辑工具\(visual-studio-code\)
@@ -29,15 +31,11 @@
 * [Spotify](https://www.spotify.com/hk-zh/)
   音乐fm
 
-
-
 通讯工具
 
 * [微信](https://weixin.qq.com/cgi-bin/readtemplate?t=mac)
 * [QQ](http://im.qq.com/macqq/index.shtml)
 * [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
-
-
 
 多媒体
 
