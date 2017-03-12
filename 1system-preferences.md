@@ -16,6 +16,8 @@
 
 ## 安全性与隐私
 
+如果
+
 ```
 sudo spctl --master-disable
 ```
