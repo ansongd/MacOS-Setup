@@ -43,8 +43,7 @@
 浏览器插件
 
 * [Tampermonkey](http://tampermonkey.net/changelog.php?version=4.3.5403&ext=G3XV&updated=true&old=4.2.5349) 浏览器Java插件
-* [LastPassword](https://lastpass.com/thanks.php)
-  多平台密码统一工具
+* [LastPassword](https://lastpass.com/thanks.php) 多平台密码统一工具
 
 树莓派工具
 
