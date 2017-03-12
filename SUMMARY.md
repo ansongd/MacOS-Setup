@@ -6,4 +6,5 @@
 * [2.Homebrew](homebrew.md)
 * [3.iTerm2](3iterm2.md)
 * [App](app.md)
+* [Bug Fix](bug-fix.md)
 
