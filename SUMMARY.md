@@ -6,7 +6,7 @@
 * [2.Homebrew](homebrew.md)
 * [3.iTerm2](3iterm2.md)
   * [Oh My Zsh](3iterm2/oh-my-zsh.md)
-* [Doctor](4.doctor.md)
+* [4.Doctor](4doctor.md)
 * [App](app.md)
 * [Bug Fix](bug-fix.md)
 
