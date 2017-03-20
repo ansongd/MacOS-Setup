@@ -6,7 +6,8 @@
 * [2.Homebrew](homebrew.md)
 * [3.iTerm2](3iterm2.md)
   * [Oh My Zsh](3iterm2/oh-my-zsh.md)
-* [4.Doctor](4doctor.md)
+  * [proxychains-ng](3iterm2/proxychains-ng.md)
+  * [alias](alias.md)
 * [App](app.md)
 * [Bug Fix](bug-fix.md)
 
