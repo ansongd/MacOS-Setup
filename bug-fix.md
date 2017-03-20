@@ -1,27 +1,27 @@
 # 常见问题解决方案
 
-## [解决Macbook Pro蓝牙不可用问题](http://www.jianshu.com/p/87e25a072623)
+---
+
+## 1.解决Macbook Pro蓝牙不可用问题
 
 #### **重置Mac 上的系统管理控制器\(SMC\)**
 
-1.   将 Mac 关机。
-2.   从电脑上拔下 MagSafe 或 USB-C 电源适配器。
-3.   在内建键盘上，按下键盘左侧的 Shift-Control-Option 键，然后同时按下电源按钮。按住这些按键和电源按钮 10 秒钟。
-4.   松开所有按键。
-5.   重新连接电源适配器。
-6.   再次按下电源按钮以开启 Mac。
-
-#### 
+1. 将 Mac 关机。
+2. 从电脑上拔下 MagSafe 或 USB-C 电源适配器。
+3. 在内建键盘上，按下键盘左侧的 Shift-Control-Option 键，然后同时按下电源按钮。按住这些按键和电源按钮 10 秒钟。
+4. 松开所有按键。
+5. 重新连接电源适配器。
+6. 再次按下电源按钮以开启 Mac。
 
 #### **重置 Mac 上的 NVRAM**
 
-1.   将 Mac 关机。
-2.   先按下power键，紧接着同时按下option+command+p+r,手，系统会自动开机
-3.   等待mac发出4声Duang~的声音后松
+1. 将 Mac 关机。
+2. 先按下power键，紧接着同时按下option+command+p+r,手，系统会自动开机
+3. 等待mac发出4声Duang~的声音后松
 
+---
 
-
-[创建可引导的 macOS 安装器](https://support.apple.com/zh-cn/HT201372)
+## 2.创建可引导的 macOS 安装器
 
 在“终端”中使用“createinstallmedia”命令
 
